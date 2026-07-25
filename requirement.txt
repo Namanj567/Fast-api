@@ -1,0 +1,4 @@
+__pyache__/
+*.pyc
+.git
+.env
