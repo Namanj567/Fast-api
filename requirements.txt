@@ -1,4 +1,2 @@
-__pyache__/
-*.pyc
-.git
-.env
+fastapi
+uvicorn
