@@ -27,5 +27,10 @@ def employees():
                     "id":3,
                     "name":"Priya",
                     "department":"Security"
-                }
+                },
+                {
+                                    "id":4,
+                                    "name":"Amit",
+                                    "department":"Networkin"
+                                }
     ]
