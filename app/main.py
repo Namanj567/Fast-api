@@ -6,7 +6,7 @@ app = FastAPI()
 @app.get("/")
 def home():
     return {
-        "message": "Employee API Running"
+        "message": "\n Employee API Running succesfully"
     }
 
 
@@ -28,9 +28,5 @@ def employees():
                     "name":"Priya",
                     "department":"Security"
                 },
-                {
-                                    "id":4,
-                                    "name":"Amit",
-                                    "department":"Networkin"
-                                }
+                
     ]
